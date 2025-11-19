@@ -1,0 +1,2 @@
+# Skin-Cancer-Classification-Using-Deep-Convolutional-Neural-Networks-CNN-
+A deep learning project for classifying two types of skin cancer using Convolutional Neural Networks (CNN). The model is built with TensorFlow/Keras, enhanced with data augmentation, batch normalization, dropout, and intelligent training callbacks. Achieves high accuracy and demonstrates a full pipeline for medical image classification
